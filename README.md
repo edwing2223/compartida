@@ -1,0 +1,4 @@
+compartida
+==========
+
+datos publicos
